@@ -1,0 +1,27 @@
+{
+  "name": "infographic-generator",
+  "version": "1.1.0",
+  "description": "信息图生成器，支持7种风格：手绘教育风、童趣卡通、极客科技、商务专业、文艺插画、暗黑哥特、复古报纸",
+  "author": "weizheng",
+  "skills": [
+    {
+      "name": "infographic-generator",
+      "path": "SKILL.md"
+    }
+  ],
+  "tags": [
+    "infographic",
+    "visualization",
+    "hand-drawn",
+    "cartoon",
+    "tech",
+    "corporate",
+    "artistic",
+    "gothic",
+    "vintage",
+    "prompt-generator"
+  ],
+  "compatibility": {
+    "openclaw": ">=1.0.0"
+  }
+}
